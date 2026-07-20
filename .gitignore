@@ -1,0 +1,39 @@
+# Unreal Engine generated folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / Rider / local IDE state
+.vs/
+.idea/
+*.sln
+*.slnx
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Unreal temporary/user files
+*.VC.db
+*.VC.opendb
+*.tmp
+*.log
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local source/download archives. Keep final imported assets in Content/.
+SourceAssets/Marketplace/
+SourceAssets/GeneratedArchive/
+
+# Local automation/editor artifacts
+*.patch_*.pdb
+__pycache__/
+*.pyc
