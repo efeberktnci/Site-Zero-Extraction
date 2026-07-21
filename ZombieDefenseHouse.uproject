@@ -38,11 +38,21 @@
 		},
 		{
 			"Name": "Interchange",
-			"Enabled": true
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
 		},
 		{
 			"Name": "InterchangeEditor",
-			"Enabled": true
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
 		},
 		{
 			"Name": "GLTFExporter",
